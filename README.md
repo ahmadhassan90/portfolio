@@ -1,5 +1,3 @@
-## 🌐 Portfolio
-Check out my portfolio for more projects and information: [Portfolio](https://ismaildaniyal.github.io/Portfolio_Ismail/)
 
 ## 🤝 Contributing
 We welcome contributions to enhance this project! Here's how you can contribute:
