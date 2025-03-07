@@ -22,9 +22,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 Contact
 For any inquiries or feedback, please feel free to contact us:
-- **Email**: ismailsarfraz9345@gmail.com
-- **GitHub**: [ismaildaniyal](https://github.com/yourusername)
+- **Email**: mianahmadhassan9095@gmail.com
+-: 
 
 ---
 
-*Made with ❤️ by IsmailDaniyal*
+*Made with ❤️ by Ahmad Hassan*
